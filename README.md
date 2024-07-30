@@ -21,7 +21,7 @@ It currently **only supports HTTP protocol** for :
 To get the latest version of Laravel-FCM on your project, require it from "composer":
 
 
-	$ composer require hilalalmansour/laravel-fcm
+	$ composer require shashwat-kalpvaig/laravel-fcm
 
 
 Or you can add it directly in your composer.json file:
@@ -29,7 +29,7 @@ Or you can add it directly in your composer.json file:
 ```json
 {
     "require": {
-        "hilalalmansour/laravel-fcm": "1.4.*"
+        "kalpvaig/laravel-fcm": "1.4.*"
     }
 }
 ```
